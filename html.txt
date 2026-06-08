@@ -1,0 +1,33 @@
+html
+hyper text markup language
+create websites a& also started L for web pages
+html file contains head,title,body 
+it is save din document formant and output is shown in web browser
+html element labels pieces as heading paragraphs and links
+
+html images <img>
+EX:<img src="img.jpg" alt="imagename" width="10" height"5"
+empty element or line break <br>
+html is not case sensitive but in w3s it used lower case
+
+html 
+bg color
+text color
+font
+text size
+alignment
+
+html text formatting
+<b> <i> <strong>
+<em> <mark> <small> 
+<del> <ins> <sub> <sup>
+
+html quotations & citation elements
+<block quote> it defines a section is quoted from another source
+<q> for short quotations
+<abbr> it defines a abbreviation
+<address> text in this reads in italic and browsers will always add a line break before and after the <address> element
+<bdo> bidirectional over ride
+
+
+
