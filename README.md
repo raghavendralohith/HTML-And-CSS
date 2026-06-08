@@ -20,3 +20,6 @@ A: Sure! Here you go: https://omnifood1717.netlify.app/
 
 Q5: Where can I find the coding challenge solutions?
 A: They are all on codepen editor.
+
+Q6: What are the practice files in section's?
+A: use Codepen Editor to practice, aslo try to do in VS code editor.
